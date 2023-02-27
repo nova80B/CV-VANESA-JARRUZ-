@@ -1,5 +1,14 @@
-﻿
-              VANESA JARRUZ
+<!DOCTYPE html>
+<html lang="el">
+<head>
+      <title> CV VANESA JARRUZ </title>
+      <meta charset= "UTF-8">
+      <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body >
+  <div class="body">
+  
+           
 
 
 
