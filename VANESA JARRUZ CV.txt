@@ -12,20 +12,28 @@
     <h1> VANESA JARRUZ </h1>
   </div>     
   
-  
+  <div class="titulos">
+    <h2> Datos Personales </h2>
+  </div>
+
+  <div class="textos"
+     <ul>
+       <li> Documento: 35100371 </li>
+       <li> Fecha de nac. : 08/02/1990 </li>
+       <li> Lugar de nac: Salta Capital </li>
+       <li> Nacionalidad: Argentina </li>
+       <li> Domicilio:Cornelio Saavedra 1112. Salta Capital - 4400 <li>
+       <li>Celular: 3876021803
+       <li>Correo electrónico: vane.90j@gmail.com
+    </ul>
+  </div>
+       
 
 
 
 
 
-DATOS PERSONALES
-Documento: 35100371
-Fecha de nac. : 08/02/1990
-Lugar de nac. : Salta Capital
-Nacionalidad: Argentina
-Dirección: Cornelio Saavedra 1112. Salta Capital – C.P. 4400
-Celular: 3876021803
-Correo electrónico: vane.90j@gmail.com
+
 
 
 EXPERIENCIA LABORAL
