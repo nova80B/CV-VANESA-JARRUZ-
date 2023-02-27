@@ -8,7 +8,11 @@
 <body >
   <div class="body">
   
-           
+         <div class="title">
+    <h1> VANESA JARRUZ </h1>
+  </div>     
+  
+  
 
 
 
